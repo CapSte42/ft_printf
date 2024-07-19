@@ -35,7 +35,7 @@ int main()
 ```
 
 #### 🛠 Skills
-c
+c, Bash 
 
 #
 💬 **Ask Me About:**
